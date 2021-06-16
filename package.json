@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-iter-sequences-negative-odd-integers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create an iterator which generates a sequence of negative odd integers.",
   "license": "Apache-2.0",
   "author": {
