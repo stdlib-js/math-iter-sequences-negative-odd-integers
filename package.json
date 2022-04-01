@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/math-iter-sequences-negative-odd-integers",
+  "version": "0.0.0",
+  "description": "Create an iterator which generates a sequence of negative odd integers.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-sequences-negative-odd-integers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "negative",
+    "odd",
+    "integer",
+    "int",
+    "natural",
+    "counting",
+    "whole",
+    "number",
+    "sequence",
+    "iterator",
+    "iterate",
+    "iteration",
+    "iter"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
