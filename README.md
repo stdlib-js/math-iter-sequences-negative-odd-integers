@@ -54,7 +54,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import iterNegativeOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-odd-integers@deno/mod.js';
+import iterNegativeOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-odd-integers@v0.1.0-deno/mod.js';
 ```
 
 #### iterNegativeOddIntegersSeq( \[options] )
@@ -136,7 +136,7 @@ var bool = it.next().done;
 <!-- eslint-disable id-length -->
 
 ```javascript
-import iterNegativeOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-odd-integers@deno/mod.js';
+import iterNegativeOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-odd-integers@v0.1.0-deno/mod.js';
 
 // Create an iterator:
 var opts = {
