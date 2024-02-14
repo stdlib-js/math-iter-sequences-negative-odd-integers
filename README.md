@@ -54,6 +54,11 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
+import iterNegativeOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-odd-integers@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-iter-sequences-negative-odd-integers/tags). For example,
+
+```javascript
 import iterNegativeOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-odd-integers@v0.2.0-deno/mod.js';
 ```
 
@@ -136,7 +141,7 @@ var bool = it.next().done;
 <!-- eslint-disable id-length -->
 
 ```javascript
-import iterNegativeOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-odd-integers@v0.2.0-deno/mod.js';
+import iterNegativeOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-negative-odd-integers@deno/mod.js';
 
 // Create an iterator:
 var opts = {
